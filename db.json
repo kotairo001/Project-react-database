@@ -1,0 +1,180 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "1234567",
+      "role": "admin",
+      "status": true
+    },
+    {
+      "id": 2,
+      "username": "kotairo",
+      "email": "van@gmail.com",
+      "password": "1234567",
+      "security": "cat",
+      "role": "user",
+      "status": false,
+      "declared": false
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "security": "",
+      "role": "user",
+      "status": false,
+      "declared": false,
+      "id": 3
+    },
+    {
+      "username": "haiyen",
+      "email": "yen@gmail.com",
+      "password": "1234567",
+      "security": "dog",
+      "role": "user",
+      "status": true,
+      "declared": true,
+      "id": 4
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "No new variants emerged from China’s Covid outbreak, study finds 12345",
+      "summary": "A genomic analysis found that all infections in Beijing belonged to existing Covid variants, according to a Chinese-funded study published in The Lancet.",
+      "content": "HONG KONG — Analysis of Covid-19 cases in Beijing suggests that no new variants emerged from China’s recent outbreak, according to a study published Wednesday. Facing rare mass unrest after nearly three years of strict “zero-Covid” policies, the Chinese government dropped most restrictions on Dec. 7. The sudden change unleashed the coronavirus over the winter on a population of 1.4 billion people who had barely been exposed to it, raising fears that the outbreak could produce a new variant of concern and leading dozens of countries, including the United States, to impose testing and other curbs on travelers from China.But the Chinese-funded study, which was published in The Lancet, found that of 413 sampled infections in Beijing, all belonged to existing Covid variants. The most common were omicron subvariants BA.5.2 and BF.7, which together accounted for more than 90% of local infections.The samples were randomly selected for genomic sequencing from a larger group of 2,881 high-quality samples collected in Beijing from Nov. 14 to Dec. 20, 2022."
+    },
+    {
+      "id": 2,
+      "title": "In new oversight role, House Republicans target billions lost to Covid relief fraud",
+      "summary": "“Right now, I have no confidence in the federal government’s ability to prevent fraud,” said the House Oversight Committee's new Republican chairman.",
+      "content": "Kicking off their new oversight role, House Republicans will take aim at the hundreds of billions of taxpayer dollars lost to fraud among the $5 trillion in Covid relief funds distributed by both the Trump and Biden administrations. The new chairman of the House Oversight and Accountability Committee, Rep. James Comer, R-Ky., labeled pandemic fraud “the biggest fleecing of America in American history.” Though the committee’s investigations have just begun, Comer said he believes no meaningful changes have been made at the federal or state levels in the three years since the pandemic relief programs were initiated. “Right now, I have no confidence in the federal government’s ability to prevent fraud.”"
+    },
+    {
+      "id": 3,
+      "title": "Congress presses Secret Service for more details about state-sponsored foreign hackers stealing Covid relief funds",
+      "summary": "At a House Oversight Committee hearing Wednesday, members from both parties cited an NBC News report about a group linked to China's government stealing millions.",
+      "content": "At a House Oversight Committee hearing on Wednesday, members of Congress from both parties pressed the Secret Service for more information about foreign state-sponsored hackers stealing Covid relief funds, citing exclusive reporting from NBC News about fraud by hackers linked to the Chinese government. In December, NBC News broke the story that APT41, a hacking group linked to the Chinese government, stole at least $20 million in U.S. Covid relief benefits, including Small Business Administration loans and unemployment insurance funds in over a dozen states, according to the Secret Service. On Wednesday, Rep. Raja Krishnamoorthi, D-Ill, pushed witness David Smith, the assistant director of the Office of Investigations at the Secret Service, to reveal the full extent of cyberattacks by such groups on state computer systems. “Since that article came out, I got to believe that they’ve probably targeted a lot of states beyond a dozen,” Krishnamoorthi said."
+    }
+  ],
+  "vaccine": [
+    {
+      "id": 1,
+      "image": "images/cases1.png",
+      "name": "mRNA Vaccine",
+      "content": "This type of vaccine gives your cells instructions for how to make the S protein found on the surface of the COVID-19 virus. After vaccination, your muscle cells begin making the S protein pieces and displaying them on cell surfaces. This causes your body to create antibodies. If you later become infected with the COVID-19 virus, these antibodies will fight the virus."
+    },
+    {
+      "id": 2,
+      "image": "images/cases2.png",
+      "name": "Vector Vaccine",
+      "content": "In this type of vaccine, material from the COVID-19 virus is placed in a modified version of a different virus (viral vector). The viral vector gives your cells instructions to make copies of the COVID-19 S protein. Once your cells display the S proteins on their surfaces, your immune system responds by creating antibodies and defensive white blood cells. If you later become infected with the COVID-19 virus, the antibodies will fight the virus."
+    },
+    {
+      "id": 3,
+      "image": "images/cases3.png",
+      "name": "Protein subunit Vaccine",
+      "content": "Subunit vaccines include only the parts of a virus that best stimulate your immune system. This type of COVID-19 vaccine contains harmless S proteins. Once your immune system recognizes the S proteins, it creates antibodies and defensive white blood cells. If you later become infected with the COVID-19 virus, the antibodies will fight the virus."
+    },
+    {
+      "name": "Astra",
+      "image": "1",
+      "content": "121",
+      "id": 4
+    }
+  ],
+  "hospital": [
+    {
+      "id": 1,
+      "name": "HCM Family Medical Practice",
+      "address": "34 Diamond Plaza, Le Duan St., District 1",
+      "phone": "(28) 38227848",
+      "email": "hcmc@vietnammedicalpractice.com",
+      "page": "http://www.benhvienvuanh.com.vn/"
+    },
+    {
+      "id": 2,
+      "name": "Franco-Vietnamese hospital",
+      "address": "6 Nguyen Luong Bang St, Tan Phu Ward, District 7",
+      "phone": "(28) 54113500",
+      "email": "saigonclinic@fvhospital.com",
+      "page": "https://cmi-vietnam.com/vi/lien-he/"
+    }
+  ],
+  "case": [
+    {
+      "id": 1,
+      "title": "Total Cases",
+      "content": "678,340,795"
+    },
+    {
+      "id": 2,
+      "title": "Recovered",
+      "content": "6,788,119"
+    },
+    {
+      "id": 3,
+      "title": "Total Deaths",
+      "content": "650,895,334"
+    }
+  ],
+  "about": [
+    {
+      "title": "About Corona Virus",
+      "content": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention. ",
+      "button": "More Get News",
+      "id": 1
+    }
+  ],
+  "health": [
+    {
+      "name": "Thu",
+      "address": "Me Tri",
+      "email": "a@gmail.com",
+      "personalID": "0320154720",
+      "gender": "female",
+      "birthday": "04/09/200",
+      "phone": "093691320",
+      "vaccine": "yes",
+      "status": "no",
+      "nationality": "vietnam",
+      "city": "hanoi",
+      "userID": 3,
+      "username": "kotairo001",
+      "id": 1
+    },
+    {
+      "name": "Minh Thu",
+      "address": "My Dinh",
+      "email": "thu@gmail.com",
+      "personalID": "55656776892639087",
+      "birthday": "11/09/2000",
+      "gender": "female",
+      "phone": "0967111320",
+      "vaccine": "yes",
+      "status": "no",
+      "nationality": "vietnam",
+      "city": "hanoi",
+      "userID": 4,
+      "username": "minhthu",
+      "id": 2
+    },
+    {
+      "name": "Hải Yến",
+      "personalID": "0321005798",
+      "birthday": "04/02/1992",
+      "gender": "female",
+      "address": "Thường Tín",
+      "phone": "0933210230",
+      "email": "haiyen@gmail.com",
+      "vaccine": "yes",
+      "status": "no",
+      "nationality": "vietnam",
+      "city": "hanoi",
+      "userID": 4,
+      "username": "haiyen",
+      "id": 3
+    }
+  ]
+}
